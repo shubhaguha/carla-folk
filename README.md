@@ -13,8 +13,16 @@ CARLA framework: <https://github.com/carla-recourse/CARLA>
 Working Prototype
 ---
 
+Requires exactly Python version 3.7.
+
 ```shell
-python run_carla.py
+python3 -m venv venv
+source venv/bin/activate
+pip install -U pip
+
+pip install git+https://github.com/carla-recourse/carla.git
+
+python3 run_carla.py
 ```
 
 Presentation
