@@ -1,6 +1,8 @@
 My Fair CARLA
 ===
 
+Team members: [Naa](https://github.com/Naa-Korkoi), [Héloïse](https://github.com/helosana), [Robin](https://github.com/RobinCugny), [Shubha](https://github.com/shubhaguha), [Thi](https://github.com/HPanTroG)
+
 Background
 ---
 
